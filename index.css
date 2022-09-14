@@ -5,3 +5,9 @@
 .gray-title {
   background-color: #ebf2ff;
 }
+
+.line {
+  border-top: 1px solid #aaabad;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
